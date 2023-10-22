@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1PQaJ3CXvl7_pVXN3XoljwduaQJN35kPt?usp=dri
 - <b>Windows 11 Pro</b> (21H2)
 
 <h2>LAB Projects Walk Through</h2>
- - <h2><b>LAB2</b></h2>
+ - <h2><b>LAB1</b></h2>
  - <b>How to make a small LAN network</b>
 <p align="center">
 we give the router switch and PC the same IP and gateways as given in the table below <br/>
