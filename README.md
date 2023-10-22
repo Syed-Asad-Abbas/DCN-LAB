@@ -17,7 +17,8 @@ https://drive.google.com/drive/folders/1PQaJ3CXvl7_pVXN3XoljwduaQJN35kPt?usp=dri
 - <b>Windows 11 Pro</b> (21H2)
 
 <h2>LAB Projects Walk Through</h2>
- How to make a small LAN network
+ - <h2><b>LAB2</b></h2>
+ - <b>How to make a small LAN network</b>
 <p align="center">
 we give the router switch and PC the same IP and gateways as given in the table below <br/>
 <img src="https://i.imgur.com/9o2Mj6F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -29,5 +30,19 @@ then After doing this, it should look like this.
 and in the right-hand corner, there should be a successful message if not then you did not assign the IP correctly or you connected them wrong.
 <br/>
 <img src="https://i.imgur.com/NlVb1uk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ - <h2><b>LAB2</b></h2>
+- <b>Packet Tracer - Connect a Router to a LAN</b>
+<b>Objectives</b>
+Display Router Information
+Configure Router Interfaces
+Verify the Configuration
+<p align="center">
+we give the router switch and PC the same IP and gateways as given in the table below <br/>
+<img src="https://i.imgur.com/XQIcbkh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+After doing this, it should look like this and in the right-hand corner, there should be a successful message if not then you did not assign the IP correctly or you connected them wrong.
+<br/>
+<img src="https://i.imgur.com/ZqiICHN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
