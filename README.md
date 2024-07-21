@@ -1,12 +1,21 @@
 <h1>DCN - Data Communication & Networking Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
-These are my DCN lab work that I learn and here I am to teach some things that I learn from those labs.
+This project is a model of networking keeping accordance with College.The network topology used is a Hybrid- Topology of tree and bus.
 <br />
 
-
+## →Properties of Model
+- It is infinitely expand-able and DHCP pools are used to assign Ip address
+- Firewalls and network security such as passwords on all wireless devices help ensure any breach.
+- RIP is used as routing protocol which helps to add new networks easily
+- Websites for Students, faculty, Directorate are designed in a user-friendly way
+## Things I learn from this Project
+- **Inter-VLAN Routing:** Mastering the techniques to enable communication between different VLANs within a network.
+- **Layer 3 Switches:** Gaining proficiency in the deployment and configuration of Layer 3 switches to enhance network efficiency and routing capabilities.
+- **Dynamic Addressing:** Understanding and implementing dynamic IP addressing protocols, such as DHCP, for efficient network management.
+- **Firewalls:** Acquiring knowledge on the setup, configuration, and management of firewalls to ensure network security and control access.
+- **Wireless Access Points:** Developing skills to install, configure, and manage wireless access points to provide reliable wireless connectivity.
+- **Website Hosting:** Learning the essentials of hosting websites, including server setup, configuration, and maintenance.
 <h2>Programs Used</h2>
 - [Cisco Packet Tracer 8.00
 link is this for the Program</b> 
@@ -16,33 +25,21 @@ https://drive.google.com/drive/folders/1PQaJ3CXvl7_pVXN3XoljwduaQJN35kPt?usp=dri
 
 - <b>Windows 11 Pro</b> (21H2)
 
-<h2>LAB Projects Walk Through</h2>
- - <h2><b>LAB1</b></h2>
- - <b>How to make a small LAN network</b>
-<p align="center">
-we give the router switch and PC the same IP and gateways as given in the table below <br/>
-<img src="https://i.imgur.com/9o2Mj6F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-then After doing this, it should look like this.
-<br/>
-<img src="https://i.imgur.com/NlVb1uk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-and in the right-hand corner, there should be a successful message if not then you did not assign the IP correctly or you connected them wrong.
-<br/>
-<img src="https://i.imgur.com/NlVb1uk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
- - <h2><b>LAB2</b></h2>
-- <b>Packet Tracer - Connect a Router to a LAN</b>
-<b>Objectives</b>
-Display Router Information
-Configure Router Interfaces
-Verify the Configuration
-<p align="center">
-we give the router switch and PC the same IP and gateways as given in the table below <br/>
-<img src="https://i.imgur.com/XQIcbkh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-After doing this, it should look like this and in the right-hand corner, there should be a successful message if not then you did not assign the IP correctly or you connected them wrong.
-<br/>
-<img src="https://i.imgur.com/ZqiICHN.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-</p>
+## LAB Projects Walk Through
+### Project Demonstration
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/full%20demonstration.jpg?raw=true)
+#### Main Campus
+![Main campus screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/main%20campus.jpg?raw=true)
+#### Sub Campus 
+![Sub Campus screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/sub%20campus.jpg?raw=true) 
+#### Cloud
+![Cloud Server screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/cloud.jpg?raw=true)
+
+### Addressing table of Project
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/t1.png?raw=true)
+
+
+
+
+![Full project screenshot](https://github.com/Syed-Asad-Abbas/DCN-LAB/blob/main/t2.png?raw=true)
+
